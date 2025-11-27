@@ -23,6 +23,13 @@ An AI-powered calculator that recognizes handwritten digits and mathematical ope
 * **Pillow (PIL)** – to handle canvas input
 * **NumPy & Pandas** – for data handling
 
+##  Demo
+
+Live Demo Screenshot
+
+
+<img width="1752" height="914" alt="image" src="https://github.com/user-attachments/assets/9e7ad40d-6887-4d7f-83fd-8b0aa52a1ead" />
+
 
 ## Installation
 
