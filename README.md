@@ -25,6 +25,7 @@ An AI-powered calculator that recognizes handwritten digits and mathematical ope
 
 ##  Demo
 LIVE APP - https://handwriting-digit-calculator-qzt6f2dsx4euicyldumtwe.streamlit.app/
+
 Live Demo Screenshot
 
 
